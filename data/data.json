@@ -1,0 +1,17 @@
+{
+  "validCredentials": {
+    "username": "don123@gmail.com",
+    "password": "Don@123"
+  },
+  "invalidCredentials": {
+    "invalidusername": "dore",
+    "invalidpassword": "Dore",
+    "invalidmailError": "Oops, this email address is invalid."
+  },
+"timeouts":{
+  "smallWait":1,
+  "mediumWait":3,
+  "largeWait":5
+},
+  "Search_item": "pasta"
+}

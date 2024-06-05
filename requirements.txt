@@ -1,0 +1,11 @@
+# Core dependencies
+pytest
+selenium
+webdriver_manager
+pytest-ordering
+
+# HTML reporting for pytest
+allure-pytest
+
+# Appium 
+Appium-Python-Client
